@@ -1,4 +1,19 @@
+body{
+
+    padding: 0;
+    margin: 0;
+    background-color: #1b263b;
+    color: #e0e1dd;
+
+}
+
 /* --- Index --- */
+
+#container{
+
+    font-family: "Jost", sans-serif;
+
+}
 
 #title{
 
@@ -10,7 +25,7 @@
 #intro{
 
     margin: auto;
-    border: 2px solid black;
+    border: 2px solid #e0e1dd;
     border-radius: 10px;
     width: 90%;
     padding: 2%;
@@ -25,6 +40,20 @@
     margin-top: 5%;
 }
 
+#passeggeri{
+
+    text-align: center;
+
+}
+
+#passeggeri a{
+
+    color:black;
+    font-size: 1.3em;
+    color: #e0e1dd;
+
+}
+
 /* -------- */
 
 
@@ -37,13 +66,14 @@
     flex-wrap: wrap;
     justify-content: space-around;
     flex-direction: row;
+    font-size: 1.1rem;
 
 }
 
 #cards div{
 
-    border: 1px solid black;
-    border-radius: 4px;
+    border: 2px solid #e0e1dd;
+    border-radius: 10px;
     margin: 0.4rem;
     padding: 0.4rem;
     width: 15%;
