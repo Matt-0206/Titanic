@@ -1,0 +1,46 @@
+/* --- Index --- */
+
+#title{
+
+    text-align: center;
+
+}
+
+#intro{
+
+    margin: auto;
+    border: 1px solid red;
+    width: 70%;
+
+}
+
+/* -------- */
+
+/* --- Cards --- */
+
+#cards{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: row;
+
+}
+
+#cards div{
+
+    border: 1px solid black;
+    border-radius: 4px;
+    margin: 0.4rem;
+    padding: 0.4rem;
+    width: 15%;
+
+}
+
+#Passengers{
+
+    text-align: center;
+
+}
+
+/* --------- */
