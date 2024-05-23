@@ -3,18 +3,31 @@
 #title{
 
     text-align: center;
+    font-size: 4.5rem;
 
 }
 
 #intro{
 
     margin: auto;
-    border: 1px solid red;
-    width: 70%;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 90%;
+    padding: 2%;
+    font-size: 1.1rem;
 
 }
 
+#gallery{
+    
+    margin: auto;
+    width: 90%;
+    margin-top: 5%;
+}
+
 /* -------- */
+
+
 
 /* --- Cards --- */
 
