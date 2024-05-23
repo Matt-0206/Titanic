@@ -1,0 +1,28 @@
+---Index.html---
+
+Titolo (centrato)
+
+Introduzione e descrizione sul TItanic (10/20 righe)
+
+Gallery IMG + Anteprima + Testo Descrittivo ( Usare Lightbox2 )
+
+Link che da sulla pagine details.html (I passeggeri)
+
+---------
+
+---details.html---
+
+(Flexbox)
+
+cards:
+
+nome:
+sesso:
+età:
+luogo di partenza:
+classe di viaggio:
+sopravissuto:
+
+---------
+
+(Inserire i dati da un JSON (GitHub), pagina locale, css(responsive 48em e 64em) e java)
