@@ -54,9 +54,3 @@ for(const passeggero of passeggeri){
 }
 
 populate();
-
-/* --- LightBox --- */ 
-
-
-
-/* --------- */
