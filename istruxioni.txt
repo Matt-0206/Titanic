@@ -25,4 +25,4 @@ sopravissuto:
 
 ---------
 
-(Inserire i dati da un JSON (GitHub), pagina locale, css(responsive 48em e 64em) e java)
+(Inserire i dati da un JSON (GitHub), pagina locale, css e java)
